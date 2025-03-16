@@ -1,0 +1,25 @@
+Date :2025/03/12
+Practical No :004
+Problem specification :
+           Take  outputs line by line
+Implication :
+
+class StudentDetails
+{
+	public static void main(String[] args)
+	{
+		System.out.println("Frist Name : Aroshini \nLast Name : Randeniya \nAdress : Mahasenpura,Girithle");
+	
+	}
+	}
+
+Out put :
+Frist Name : Aroshini
+Last Name : Randeniya
+Adress : Mahasenpura,GirithleFrist Name : Aroshini
+Last Name : Randeniya
+Adress : Mahasenpura,Girithle
+
+
+Conclution 
+We learnt how to  Take  outputs line by line
