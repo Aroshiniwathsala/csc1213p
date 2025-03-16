@@ -1,0 +1,21 @@
+Date : 2025/03/12
+Practical No : 001
+Problem Specification : Give a simple output
+Implication :
+class Fristjavaprogramme
+{
+	public static void main(String[] args)
+	{
+		System.out.println("MY FRIST PROGRAMME IN JAVA");
+		Snstem.out.println("HELLO JAVA DEVELOPERS");
+			
+		
+	}
+}
+Output:
+MY FRIST PROGRAMME IN JAVA
+HELLO JAVA DEVELOPERS
+ Conclution:
+we learnt how get an out put on java
+
+
